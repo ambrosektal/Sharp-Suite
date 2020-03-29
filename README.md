@@ -1,3 +1,6 @@
+# ambrosektal's version...    
+This is just my attempt to modify csharp applications to the way I would like for them to run.  And forces me to learn c# in the process.
+
 # Sharp-Suite
 
 The king is dead, long live the king. I am starting a new repo with code samples in C#. My heart is still with PowerShell <3, lets face it using in-line C# in PowerShell is a much nicer experience than actually using C#! However, threat emulation has to evolve over time and so does the tooling.
